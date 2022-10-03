@@ -1,0 +1,41 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Sensor_PCB_V0_2
+*Date=15:27:26
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;3.76612;-11.8464;0;Bottom;Hole4
+2;;;19.0061;-6.76638;0;Bottom;ANT
+3;;;79.9661;-44.8664;0;Bottom;Via2
+4;;THT;20.2761;-60.1064;-90;Bottom;Gyro
+5;;THT;20.2761;-24.5464;-90;Bottom;GSM
+6;;;4.9254;-38.3135;90;Bottom;TXT1
+7;;THT;41.8661;-22.0064;-90;Bottom;Temp Sen
+8;;THT;41.8661;-34.7064;-90;Bottom;Turbidity Sen
+9;;;85.0461;-55.0264;0;Bottom;Via5
+10;;;77.4261;-39.7864;0;Bottom;Via1
+11;;;112.986;-65.1864;0;Bottom;Hole3
+12;;;85.0461;-60.1064;0;Bottom;Via6
+13;;;3.76612;-65.1864;0;Bottom;Hole1
+14;;;1.87764;-38.0212;90;Bottom;TXT1
+15;;THT;88.8561;-65.1864;-90;Bottom;GPS
+16;;;26.6093;-3.39947;180;Bottom;ANT
+17;;THT;91.5231;-28.3564;0;Bottom;WiFi
+18;;THT;55.8361;-65.1864;-90;Bottom;oled
+19;;;92.6361;-16.9074;0;Bottom;Via3
+20;;;114.813;-35.3241;90;Bottom;TXT1
+21;;;112.986;-4.22638;0;Bottom;Hole2
+22;;;64.7526;-28.3564;0;Bottom;Arduino
+23;4.7;THT;59.6461;-27.0864;0;Bottom;R2
+24;;THT;6.30612;-5.49638;4.24425e-15;Bottom;Solar Charge
+25;;;88.2312;-1.5645;0;Bottom;TXT1
+26;;;74.8861;-39.7864;0;Bottom;Via4
